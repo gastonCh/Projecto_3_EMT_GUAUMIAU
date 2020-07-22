@@ -3,6 +3,6 @@
 Projecto de final de curso 
 
 Integrantes:
-  - Gaston Chamorro
+  - Gastón Chamorro
   - Maximiliano Robles
-  - Nicolas Gonzalez
+  - Nicolas González
